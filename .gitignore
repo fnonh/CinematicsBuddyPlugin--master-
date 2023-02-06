@@ -14,3 +14,4 @@ bakkesmod/plugins/CinematicsBuddy.dll
 
 #Files
 *.user
+.fake
